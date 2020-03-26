@@ -7,3 +7,8 @@ A machine learning model to predict and visualize student performances in school
 - student.txt contains all the attributes and the number/string values associated with them.
 - student_model.pickle is a pickle file I made in my Python program to store the model with my highest accuracy. 
 
+# Linear Regression Examples
+
+![](screenshot1.png)
+
+![](screenshot2.png)
