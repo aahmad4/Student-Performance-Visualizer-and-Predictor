@@ -9,6 +9,5 @@ A machine learning model to predict and visualize student performances in school
 
 # Linear Regression Examples
 
-![](screenshot1.png)
+![](screenshot1.png) ![](screenshot2.png)
 
-![](screenshot2.png)
