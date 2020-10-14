@@ -8,10 +8,10 @@ The data I used to train the model can be found here: <a href="https://archive.i
 </p>
 
 ## Repository Contents
-* studentPerformance.ipynb contains the Python code for this model. I have commented all the logic going on so it's easier to understand and follow. I also have graphs with matplotlib to visualize the data and see the correlation between the label and it's attributes. 
+* [studentPerformance.ipynb](https://github.com/aahmad4/Student-Performance-Visualizer-and-Predictor/blob/master/studentPerformance.ipynb) contains the Python code for this model. I have commented all the logic going on so it's easier to understand and follow. I also have graphs with matplotlib to visualize the data and see the correlation between the label and it's attributes. 
 * Along with my notebook, I have two csv files which contain the data for students performances based on all 33 attributes. 
-* student.txt contains all the attributes and the number/string values associated with them.
-* student_model.pickle is a pickle file I made in my Python program to store the model with my highest accuracy. 
+* [student.txt](https://github.com/aahmad4/Student-Performance-Visualizer-and-Predictor/blob/master/student.txt) contains all the attributes and the number/string values associated with them.
+* [student_model.pickle](https://github.com/aahmad4/Student-Performance-Visualizer-and-Predictor/blob/master/student_model.pickle) is a pickle file I made in my Python program to store the model with my highest accuracy. 
 
 ## Linear Regression Examples
 
